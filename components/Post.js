@@ -35,7 +35,7 @@ export default function Post({ post, compact }) {
           <Link href={`/blog/${post.slug}`}>
             <a className="text-gray-900 hover:text-blue-600">Read More</a>
           </Link>
-          <div className="flex items-center">
+          {/* <div className="flex items-center">
             <img
               src={post.frontmatter.author_image}
               alt=""
@@ -44,7 +44,7 @@ export default function Post({ post, compact }) {
             <h3 className="text-gray-700 font-bold">
               {post.frontmatter.author}
             </h3>
-          </div>
+          </div> */}
         </div>
       )}
     </div>

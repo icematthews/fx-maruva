@@ -4,8 +4,8 @@ date: "July 9, 2021"
 excerpt: "EUR/JPY looks oversold and may look for a bounce soon"
 cover_image: "/images/posts/eurjpy090721.jpg"
 category: "EURJPY"
-author: "Ismaail Matthews"
-author_image: "/images/authors/mypic.jpg"
+# author: "Ismaail Matthews"
+# author_image: "/images/authors/mypic.jpg"
 ---
 
 ## Euro forecasted to rise against Japanese Yen
