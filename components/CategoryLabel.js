@@ -4,7 +4,7 @@ export default function CategoryLabel({ children }) {
   const colorKey = {
     EURJPY: "yellow",
     GBPCAD: "blue",
-    Python: "green",
+    GBPUSD: "green",
     PHP: "purple",
     Ruby: "red",
   };

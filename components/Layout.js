@@ -13,7 +13,7 @@ export default function Layout({ title, keywords, description, children }) {
       </Head>
 
       <Header />
-      {/* <Search /> */}
+      <Search />
       <main className="container mx-auto my-7">{children}</main>
     </div>
   );
