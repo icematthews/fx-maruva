@@ -9,8 +9,8 @@ export default function AboutPage() {
         <h3 className="text-2xl mb-5">FX Maruva</h3>
 
         <p className="mb-3">
-          This is a blog about the Forex market. All opinions are personal and
-          are not investment advice.
+          This blog is a journal of my journey in the Forex market. All opinions
+          are personal and are not investment advice.
         </p>
 
         <p>
