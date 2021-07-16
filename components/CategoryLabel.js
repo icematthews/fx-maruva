@@ -5,7 +5,7 @@ export default function CategoryLabel({ children }) {
     EURJPY: "yellow",
     GBPCAD: "blue",
     GBPUSD: "green",
-    PHP: "purple",
+    AUDNZD: "purple",
     Ruby: "red",
   };
 
