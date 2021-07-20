@@ -10,7 +10,7 @@ export default function AboutPage() {
 
         <p className="mb-3">
           This blog is a journal of my journey in the Forex market. All opinions
-          are personal and are not investment advice.
+          are for personal purposes and are not investment advice.
         </p>
 
         <p>
