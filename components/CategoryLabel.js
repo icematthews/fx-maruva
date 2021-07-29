@@ -7,8 +7,8 @@ export default function CategoryLabel({ children }) {
     GBPUSD: "green",
     AUDNZD: "purple",
     AUDUSD: "red",
-    GBPAUD: "gray",
-    USDCHF: "aqua",
+    GBPAUD: "darkblue",
+    USDCHF: "brown",
   };
 
   return (
