@@ -9,6 +9,7 @@ export default function CategoryLabel({ children }) {
     AUDUSD: "red",
     GBPAUD: "darkblue",
     USDCHF: "brown",
+    USDJPY: "mocha",
   };
 
   return (
