@@ -1,6 +1,6 @@
 ---
 title: "Kiwi to weaken against Loonie"
-date: "August 4, 2021"
+date: "August 04, 2021"
 excerpt: "Better Canadian data to send CAD higher"
 cover_image: "/images/posts/nzdcad040821.jpg"
 category: "NZDCAD"
