@@ -10,6 +10,7 @@ export default function CategoryLabel({ children }) {
     GBPAUD: "darkblue",
     USDCHF: "brown",
     USDJPY: "mocha",
+    NZDCAD: "plum",
   };
 
   return (
