@@ -12,6 +12,7 @@ export default function CategoryLabel({ children }) {
     USDJPY: "mocha",
     NZDCAD: "plum",
     NZDJPY: "palelilac",
+    CADCHF: "seashell",
   };
 
   return (
